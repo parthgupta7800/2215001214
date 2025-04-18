@@ -1,0 +1,12 @@
+.feed .feed-item {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+  }
+  
+  .feed span {
+    display: block;
+    font-size: 0.8em;
+    color: #777;
+  }
+  
